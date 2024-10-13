@@ -1,5 +1,5 @@
 <h1> Hi, I'm Malath! </h1>
- <p><em>Software Developer and King Saud University Graduate </em></p>
+ <p><em>I’m a Software Engineering Fresh Graduate from KSU with a strong passion for developing high-quality software solutions & a solid foundation in full-stack development. </em></p>
 
 
 
