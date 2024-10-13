@@ -1,5 +1,5 @@
-Hi, I'm Malath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p><em>Software Developer and King Saud University Graduate <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+Hi, I'm Malath! <img src="https://asset.cloudinary.com/dgoxhohcu/5d8a8c61373c1f1d6d418d0d408dd2a7" width="50">
+ <p><em>Software Developer and King Saud University Graduate </em></p>
 
 
 
