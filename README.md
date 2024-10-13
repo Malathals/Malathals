@@ -1,4 +1,4 @@
-Hi, I'm Malath! <img src="https://asset.cloudinary.com/dgoxhohcu/5d8a8c61373c1f1d6d418d0d408dd2a7" width="50">
+<h1> Hi, I'm Malath! </h1>
  <p><em>Software Developer and King Saud University Graduate </em></p>
 
 
@@ -13,8 +13,8 @@ const malath = {
   tools: ["React", "Node.js", "Express", "Angular", "PostgreSQL"],
   projects: [
     "Developed a healthcare system using FHIR JSON during my internship",
-    "Built a React-based admin dashboard with backend in Node.js"
-    and more
+    "Built a React-based admin dashboard with backend in Node.js",
+   "and more"
   ],
   interests: ["Full-Stack Development", "Software Architecture", "Cloud Computing"],
   challenge: "Currently expanding my expertise in Angular and Spring boot."
